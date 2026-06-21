@@ -1,0 +1,1 @@
+conhost cmd /C rundll32 user32.dll, LockWorkStation
