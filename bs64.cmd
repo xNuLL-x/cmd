@@ -1,0 +1,1 @@
+certutil -encode C:\users\Etern\Desktop\Scripts\user.cmd user.b64
