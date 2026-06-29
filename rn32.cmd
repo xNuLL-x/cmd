@@ -1,0 +1,1 @@
+"%WinDir%\System32\cmd.exe" /C start code
